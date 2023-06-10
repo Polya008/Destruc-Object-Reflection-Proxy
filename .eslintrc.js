@@ -7,7 +7,6 @@ module.exports = {
     },
     "extends": [
         "eslint:recommended",
-        "plugin:react/recommended"
     ],
     "overrides": [
     ],
@@ -16,10 +15,7 @@ module.exports = {
         "sourceType": "module"
     },
     "plugins": [
-        "react"
     ],
     "rules": {
-        "react/jsx-uses-vars": "error",
-        "react/jsx-uses-react": 2
     }
 }
