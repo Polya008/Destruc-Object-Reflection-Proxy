@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9ccbjl6yppknl284?svg=true)](https://ci.appveyor.com/project/Polya008/destructuring)
+[![Build status](https://ci.appveyor.com/api/projects/status/7lxqtljmnyaa4kh6?svg=true)](https://ci.appveyor.com/project/Polya008/destruc-object-reflection-proxy)
